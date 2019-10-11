@@ -5,7 +5,7 @@
 #include "SubWorld.h"
 
 #define MAX_LOADSTRING 100
-
+bite
 // Variables globales :
 HINSTANCE hInst;                                // instance actuelle
 WCHAR szTitle[MAX_LOADSTRING];                  // Texte de la barre de titre
